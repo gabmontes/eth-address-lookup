@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Lookup Ethereum addresses",
+  "version": "1.0.0",
+  "description": "Lookup Ethereum addresses",
+  "browser_action": {},
+  "author": "Gabriel Montes <gabriel@utoctadel.com.ar>",
+  "background": { "scripts": ["background.js"] },
+  "homepage_url": "https://github.com/gabmontes/eth-address-lookup",
+  "permissions": ["activeTab"]
+}
